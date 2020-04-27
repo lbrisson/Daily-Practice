@@ -1,4 +1,4 @@
-# Daily-Practice
+# Java/Object Oriented Concept-Practice Exercises
 Programs & Projects used to practice Object Oriented Concepts & Java Coding Skills
 
   # Project 1: Dad Joke Generator
