@@ -9,5 +9,5 @@ Programs & Projects used to practice Object Oriented Concepts & Java Coding Skil
     * Random Generator
     * User Input 
     * Arrays
-    * Switch cases & If Statements   
+    * Switch cases & If Statements    
    
