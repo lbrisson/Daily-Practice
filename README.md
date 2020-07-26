@@ -8,7 +8,7 @@ Programs & Projects used to practice Object Oriented Concepts & Java Coding Skil
     * Nested Loops    
     * Random Generator     
     * User Input       
-    * Arrays    
+    * Arrays     
     * Switch cases & If Statements       
         
     
